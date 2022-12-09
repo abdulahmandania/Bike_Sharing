@@ -1,6 +1,7 @@
 # Bike Sharing in DeMoines, Iowa
 ..................................![NYC-CitiBike-Station](https://user-images.githubusercontent.com/111723067/206611385-b80f8134-b8b2-4677-91d7-9fafaeb7dd7b.jpg)............
 
+Click here to view my work [My Tableau Visuals](https://public.tableau.com/app/profile/dania2681/viz/CitiBIKE/DeMoinesBikeSharingProgram?publish=yes)
 _________________________________________________________________________________________________________________________________________________________________________
 ### Overview
 While visiting New York City, we see that part of what keeps the city running are CitiBikes! Hundreds of thousands of people use CitiBikes everyday to commute. After seeing how essential those bikes are, we decided to bring the idea to DeMoines, Iowa, while thinking of all the possible changes we'd have to take into account considering DeMoines being smaller and more spread out than NYC.
